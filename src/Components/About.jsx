@@ -52,9 +52,8 @@ function About() {
             </span>
           </p>
           <p className="subTxt">
-            <span className="fontTwo">Pixel-ate-it</span> is is a name I use for
-            personal branding, like a stage-name after I realised that people
-            find it hard to pronounce my name(Prakhar).
+            <span className="fontTwo">Pixel-ate-it</span> is a name I use for
+            personal branding/ like a alias for my name(Prakhar).
           </p>
         </div>
       </div>

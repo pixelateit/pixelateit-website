@@ -21,6 +21,10 @@ function Footer() {
                             dribbble.com
                             <span>/pixelateit</span>
                         </a>
+                        <a href="https://www.linkedin.com/in/pixelateit/">
+                            linkedin.com
+                            <span>/in/pixelateit/</span>
+                        </a>
                     </div>
                     <p onClick={() => {
                         navigator.clipboard.writeText('PrakharS@protonmail.com');
